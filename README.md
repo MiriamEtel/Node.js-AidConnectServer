@@ -11,8 +11,8 @@ Volunteer Registration: Allow individuals to register as volunteers and respond 
 API Endpoints: Provides RESTful endpoints for interacting with the server and accessing/manipulating data.
 ### <span style="font-size: 35px; font-weight: bold;">Installation</span>
 Clone the repository.
-Install dependencies using npm install.
-Start the server using npm start.
+Install dependencies using `npm install`.<br>
+Start the server using `npm start`.
 ### <span style="font-size: 35px; font-weight: bold;">Usage</span>
 Access the provided API endpoints to manage help requests and volunteer data.
 Detailed instructions for endpoint usage can be found in the API documentation.
